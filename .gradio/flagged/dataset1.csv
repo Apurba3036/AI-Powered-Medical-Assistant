@@ -1,0 +1,46 @@
+audio,output,timestamp
+.gradio\flagged\audio\7585ba9ebd9478d15b31\audio.wav,"**Doctor's Transcription:** hello hello I am from Dhaka my friend name is Tisha she's suffering from fever and the disease in the belly and she's taking Napa and phenadine for the treatment
+
+**Formatted Prescription:**
+**Patient Name**: Not Provided
+
+**Diagnosis**: Fever and abdominal illness
+
+**Medications**:
+- Napa
+- Phenadine
+
+**Dosage Instructions**:
+- Administer Napa 100mg every 4 hours
+- Administer phenadine 50mg every 6 hours
+
+**Additional Advice**:
+- Monitor for any adverse reactions
+- Avoid alcohol and spicy foods
+
+**Follow-up Instructions**:
+- Return for follow-up in 3 days
+
+**Disclaimer**: This prescription is for informational purposes only and should not be considered medical advice. Please consult with a healthcare professional for diagnosis and treatment.",2025-02-25 01:12:09.063346
+.gradio\flagged\audio\fcee0822244b701937e1\audio.wav,"**Doctor's Transcription:** Hello my patient name is Sifat. He is suffering from fever. He is taking paracetamol and Napa for three days from four times in a day. He has also bad headache.
+
+**Formatted Prescription:**
+**Patient Name**: (Not mentioned)
+
+**Diagnosis**: Fever
+
+**Medications**:
+- Paracetamol 500mg every 4 hours
+- Napa 250mg every 4 hours
+
+**Dosage Instructions**:
+- Take the medications every 4 hours, as directed by the doctor.
+- Consult the doctor for dosage adjustments if necessary.
+
+**Additional Advice**:
+- Avoid alcohol and smoking while taking these medications.
+- Monitor your fever and other symptoms, and seek immediate medical attention if they become severe.
+
+**Follow-up Instructions**:
+- Follow up with the doctor in 3 days for monitoring.
+- Contact the doctor if your symptoms worsen or if you experience any adverse effects.",2025-02-25 09:42:50.638557
