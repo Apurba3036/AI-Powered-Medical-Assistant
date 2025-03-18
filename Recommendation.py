@@ -105,6 +105,6 @@ gr.Interface(
     fn=transcribe_and_generate,
     inputs=gr.Audio(sources=["microphone"], type="filepath"),
     outputs="textbox",
-    title="AI Medical Assistant - Speech to Structured Medical Info",
+    title="AI Medical Assistant - Speech to Prescription",
     live=True,
 ).launch()
