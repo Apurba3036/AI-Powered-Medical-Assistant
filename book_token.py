@@ -26,8 +26,8 @@ app = FastAPI()
 origins = ["http://localhost:5173", "http://127.0.0.1:5173", "http://localhost:3000", "http://127.0.0.1:3000"]
 app.add_middleware(CORSMiddleware, allow_origins=origins, allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
 
-# Hugging Face authentication token
-HF_TOKEN = os.getenv("HF_TOKEN", "")
+# # Hugging Face authentication token
+# HF_TOKEN = os.getenv("HF_TOKEN", "")
 
 # Load Hugging Face LLM model
 MODEL_NAME = "Qwen/QwQ-32B"  # Change this model if needed
