@@ -112,7 +112,7 @@ book_chain = LLMChain(llm=llm, prompt=book_template)
 def generate_image(prompt: str):
     try:
         API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
-        headers = {"Authorization": f"Bearer {os.environ.get('hf_dummy_','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')}"}
+        headers = {"Authorization": f"Bearer {os.environ.get('hf_dummy_','')}"}
         
         response = requests.post(API_URL, headers=headers, json={"inputs": prompt})
         
